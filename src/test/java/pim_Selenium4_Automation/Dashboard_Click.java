@@ -27,6 +27,8 @@ public class Dashboard_Click extends BaseTest {
 	 * @throws InterruptedException *
 	 ***********************************************/
 
+	
+	
 	@Test
 	public void Click_Dashboard() throws IOException, InterruptedException {
 		System.out.println(this.getClass().getSimpleName());
